@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello World</h1>
+        <a href="http://www.google.com">Go to google Motherfucker.</a>
       </header>
     </div>
   );
